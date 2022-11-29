@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ?
-- 
+- I'm currently learning blender
 
 <!---
 thebar333/thebar333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
